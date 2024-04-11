@@ -2,8 +2,7 @@
 Repository for storing the [International Piano e-Competition](https://piano-e-competition.com/) dataset of MIDI files recorded from live performances. Can be used to train machine learning models on expressive music performance.
 
 ## Usage
-You can either download a single `zip` file [here](https://storage.googleapis.com/datasets.studiop.page/international-e-piano-midi_2002-2018.zip), or download from Github following the instructions below.
-1. Clone the repository: `git clone https://https://github.com/paulhutchings/international-e-piano-dataset`
+1. Clone the repository
 2. Run `cat international-e-piano-midi_2002-2018.tar.gz.parta* > international-e-piano-midi_2002-2018.tar.gz`
 3. Unzip: ` tar -xf international-e-piano-midi_2002-2018.tar.gz`
 
